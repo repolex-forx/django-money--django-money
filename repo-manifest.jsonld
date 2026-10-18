@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/django-money/django-money/commit/b255e278870a24cf70b200787c5fa4c8081df465",
       "git:hexsha": "b255e278870a24cf70b200787c5fa4c8081df465",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T13:18:51.294666+00:00"
     },
     {
       "@id": "https://repolex.ai/r/django-money/django-money/commit/4523260384cbf05bb33cc01daa8d69c966fdd1be",
