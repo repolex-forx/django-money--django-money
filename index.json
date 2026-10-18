@@ -1,0 +1,11 @@
+{
+  "org": "django-money",
+  "repo": "django-money",
+  "versions": [
+    {
+      "commit": "b255e278870a24cf70b200787c5fa4c8081df465",
+      "tag": "",
+      "parsed_at": "2026-10-18T13:18:51.295483+00:00"
+    }
+  ]
+}
